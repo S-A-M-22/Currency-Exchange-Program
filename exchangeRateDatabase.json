@@ -1,0 +1,359 @@
+[
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "AUD",
+    "exchangeRate": {
+      "USD": 0.672,
+      "JPY": 96.927,
+      "EUR": 0.501,
+      "NZD": 1.0830,
+      "RUB": 60.548
+    },
+    "exchangeHistory": [
+      {
+        "targetCurrency": "USD",
+        "date": "2024-09-01",
+        "rate": 0.672,
+        "note": "First time initialization of exchange rate to USD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-01",
+        "rate": 96.747,
+        "note": "First time initialization of exchange rate to JPY",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "EUR",
+        "date": "2024-09-01",
+        "rate": 0.512,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "NZD",
+        "date": "2024-09-01",
+        "rate": 1.0830,
+        "note": "First time initialization of exchange rate to NZD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "RUB",
+        "date": "2024-09-01",
+        "rate": 60.583,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-03",
+        "rate": 96.927,
+        "note": "Initialization of exchange rate to JPY",
+        "direction": "Increased"
+      },
+      {
+        "targetCurrency": "EUR",
+        "date": "2024-09-01",
+        "rate": 0.501,
+        "note": "Initialization of exchange rate to EUR",
+        "direction": "Decreased"
+      }
+    ]
+  },
+  {
+    "currencyName": "US Dollar",
+    "currencySymbol": "USD",
+    "exchangeRate": {
+      "AUD": 1.732,
+      "JPY": 142.980,
+      "EUR": 0.903,
+      "NZD": 1.6276,
+      "RUB" : 91.040
+    },
+    "exchangeHistory": [
+      {
+        "targetCurrency": "AUD",
+        "date": "2024-09-01",
+        "rate": 1.487,
+        "note": "First time initialization of exchange rate to AUD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-01",
+        "rate": 143.80,
+        "note": "First time initialization of exchange rate to JPY",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "EUR",
+        "date": "2024-09-01",
+        "rate": 0.903,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "NZD",
+        "date": "2024-09-01",
+        "rate": 1.6276,
+        "note": "First time initialization of exchange rate to NZD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "RUB",
+        "date": "2024-09-01",
+        "rate": 91.040,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "AUD",
+        "date": "2024-09-03",
+        "rate": 1.732,
+        "note": "Initialization of exchange rate to AUD",
+        "direction": "Increased"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-03",
+        "rate": 142.980,
+        "note": "Initialization of exchange rate to JPY",
+        "direction": "Decreased"
+      }
+    ]
+  },
+  {
+    "currencyName": "Japanese Yen",
+    "currencySymbol": "JPY",
+    "exchangeRate": {
+      "AUD": 0.0106,
+      "USD": 0.0068,
+      "EUR": 0.008,
+      "NZD": 0.0221,
+      "RUB" : 0.64321
+    },
+    "exchangeHistory": [
+      {
+        "targetCurrency": "AUD",
+        "date": "2024-09-01",
+        "rate": 0.0106,
+        "note": "First time initialization of exchange rate to AUD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "USD",
+        "date": "2024-09-01",
+        "rate": 0.0068,
+        "note": "First time initialization of exchange rate to USD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "EUR",
+        "date": "2024-09-01",
+        "rate": 0.0062,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "NZD",
+        "date": "2024-09-01",
+        "rate": 0.011490,
+        "note": "First time initialization of exchange rate to NZD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "RUB",
+        "date": "2024-09-01",
+        "rate": 0.64321,
+        "note": "First time initialization of exchange rate to NZD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "EUR",
+        "date": "2024-09-03",
+        "rate": 0.008,
+        "note": "Initialization of exchange rate to EUR",
+        "direction": "Increased"
+      },
+      {
+        "targetCurrency": "NZD",
+        "date": "2024-09-03",
+        "rate": 0.0221,
+        "note": "Initialization of exchange rate to NZD",
+        "direction": "Increased"
+      }
+    ]
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "EUR",
+    "exchangeRate": {
+      "AUD": 1.647,
+      "USD": 1.108,
+      "JPY": 159.30,
+      "NZD": 1.766,
+      "RUB": 100.157
+    },
+    "exchangeHistory": [
+      {
+        "targetCurrency": "AUD",
+        "date": "2024-09-01",
+        "rate": 1.647,
+        "note": "First time initialization of exchange rate to AUD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "USD",
+        "date": "2024-09-01",
+        "rate": 1.108,
+        "note": "First time initialization of exchange rate to USD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-01",
+        "rate": 159.30,
+        "note": "First time initialization of exchange rate to JPY",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "NZD",
+        "date": "2024-09-01",
+        "rate": 1.7966,
+        "note": "First time initialization of exchange rate to NZD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "RUB",
+        "date": "2024-09-01",
+        "rate": 100.57,
+        "note": "First time initialization of exchange rate to NZD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "NZD",
+        "date": "2024-09-03",
+        "rate": 1.766,
+        "note": "Initialization of exchange rate to NZD",
+        "direction": "Decreased"
+      },
+      {
+        "targetCurrency": "RUB",
+        "date": "2024-09-01",
+        "rate": 100.157,
+        "note": "Initialization of exchange rate to NZD",
+        "direction": "Decreased"
+      }
+    ]
+  },
+  {
+    "currencyName": "New Zealand Dollar",
+    "currencySymbol": "NZD",
+    "exchangeRate": {
+      "AUD": 1.68,
+      "USD": 1.20,
+      "JPY": 158.90,
+      "EUR": 0.55659,
+      "RUB": 55.963
+    },
+    "exchangeHistory": [
+      {
+        "targetCurrency": "AUD",
+        "date": "2024-09-01",
+        "rate": 1.68,
+        "note": "First time initialization of exchange rate to AUD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "USD",
+        "date": "2024-09-01",
+        "rate": 1.10,
+        "note": "First time initialization of exchange rate to USD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-01",
+        "rate": 159.30,
+        "note": "First time initialization of exchange rate to JPY",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "EUR",
+        "date": "2024-09-01",
+        "rate": 0.55659,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "RUB",
+        "date": "2024-09-01",
+        "rate": 55.963,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "USD",
+        "date": "2024-09-03",
+        "rate": 1.20,
+        "note": "Initialization of exchange rate to USD",
+        "direction": "Increased"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-03",
+        "rate": 158.90,
+        "note": "Initialization of exchange rate to JPY",
+          "direction": "Decreased"
+      }
+    ]
+  },
+  {
+    "currencyName": "Russian Ruble",
+    "currencySymbol": "RUB",
+    "exchangeRate": {
+      "AUD": 0.0165,
+      "USD": 0.0109,
+      "EUR": 0.009,
+      "JPY": 1.559
+    },
+    "exchangeHistory": [
+      {
+        "targetCurrency": "AUD",
+        "date": "2024-09-11",
+        "rate": 0.0165,
+        "note": "First time initialization of exchange rate to AUD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "USD",
+        "date": "2024-09-11",
+        "rate": 0.0109,
+        "note": "First time initialization of exchange rate to USD",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "EUR",
+        "date": "2024-09-11",
+        "rate": 0.009,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "JPY",
+        "date": "2024-09-11",
+        "rate": 1.559,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      },
+      {
+        "targetCurrency": "NZD",
+        "date": "2024-09-11",
+        "rate": 0.018,
+        "note": "First time initialization of exchange rate to EUR",
+        "direction": "New"
+      }
+    ]
+  }
+]
